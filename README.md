@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Predict Bike Sharing Demand with AutoGluon
 
 ## Introduction to AWS Machine Learning Final Project
@@ -58,10 +57,4 @@ pip install jupyterlab
 6. Tune at least 3 different hyperparameters from AutoGluon and resubmit predictions to rank higher on Kaggle.
 7. Write up a report on how improvements (or not) were made by either creating additional features or tuning hyperparameters, and why you think one or the other is the best approach to invest more time in.
 
-## License
-[License](LICENSE.txt)
-||||||| empty tree
-=======
-# AWS-MLE-Bike-Sharing-Demand
-AWS MLE Bike Sharing Demand. First project in the AWS MLE ND.
->>>>>>> cf65a4110047d8b9417af3697dbda1e0a00ac4e4
+
